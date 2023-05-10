@@ -26,7 +26,6 @@ export default {
       loading: true,
     };
   },
-  inject: ["$api"],
   created() {
     console.log("hello");
   },
